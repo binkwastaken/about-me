@@ -1,4 +1,4 @@
-# 🇷🇴 I'm Romanian, so I come with built-in cheats for stealing wallets. I esp and aimbot for them.
+# I'm Romanian, so I come with built-in cheats for stealing wallets. I esp and aimbot for them.
 
 **I make cheats for CS2 in C++**  
 _(without any actual reverse engineering cuz I'm too dumb for that.)_
